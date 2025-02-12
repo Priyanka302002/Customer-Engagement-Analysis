@@ -6,12 +6,12 @@ This project involves analyzing the engagement of students with a platform over 
 
 - [📖 Project Overview](project_overview.md)  
 - [📂 Data Description](data_description.md)  
-- [📊 Analysis](#analysis)  
+- [📊 Analysis](analysis.md)  
   - [📈 Task 1: Descriptive Statistics](Descriptive_Statistics.xlsx)  
   - [📊 Task 2: Skewness and Kurtosis](Descriptive_Statistics.xlsx)  
   - [📉 Task 3: Confidence Intervals](Confidence_Intervals.xlsx)  
   - [📑 Task 4: Hypothesis Testing](Hypothesis_Testing.xlsx)  
-- [📋 Results and Interpretation](results_and_interpretation.md)  
+- [📋 Results and Interpretation](result_and_interpretation.md)  
 - [✅ Conclusion](conclusion.md)  
 - [⚙️ How to Run the Code]
 
