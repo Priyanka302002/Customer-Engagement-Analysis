@@ -1,4 +1,4 @@
-# 📊 Student Engagement Analysis  
+# 📊 Customer Engagement Analysis  
 
 This project involves analyzing the engagement of students with a platform over two years (Q4 2021 to Q4 2022) based on their subscription plans. The analysis focuses on descriptive statistics, confidence intervals, and hypothesis testing for both paid-plan and free-plan students.
 
