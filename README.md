@@ -4,16 +4,16 @@ This project involves analyzing the engagement of students with a platform over 
 
 ## 📌 Table of Contents  
 
-- [📖 Project Overview](#project-overview)  
-- [📂 Data Description](#data-description)  
+- [📖 Project Overview](project_overview.md)  
+- [📂 Data Description](data_description.md)  
 - [📊 Analysis](#analysis)  
   - [📈 Task 1: Descriptive Statistics](Descriptive_Statistics.xlsx)  
   - [📊 Task 2: Skewness and Kurtosis](Descriptive_Statistics.xlsx)  
-  - [📉 Task 3: Confidence Intervals](Confidence_Intervals)  
-  - [📑 Task 4: Hypothesis Testing](Hypothesis_Testing)  
-- [📋 Results and Interpretation](#results-and-interpretation)  
-- [✅ Conclusion](#conclusion)  
-- [⚙️ How to Run the Code](#how-to-run-the-code)  
+  - [📉 Task 3: Confidence Intervals](Confidence_Intervals.xlsx)  
+  - [📑 Task 4: Hypothesis Testing](Hypothesis_Testing.xlsx)  
+- [📋 Results and Interpretation](results_and_interpretation.md)  
+- [✅ Conclusion](conclusion.md)  
+- [⚙️ How to Run the Code]
 
 ## 📖 Project Overview  
 
